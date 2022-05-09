@@ -1,17 +1,12 @@
 
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
+#include "Workshop3.h"
 
-#define MIN_YEAR 2010
-#define MAX_YEAR 2022
-#define LOG_DAYS 3
-
-int main(void)
+void wellBeing_main(void)
 {
 	int const JAN = 1, DEC = 12;
 	int month = 0, year = 0, KeepGoing = 1, day = 1, i, tryagainM = 0, tryagainE = 0, end = 1;
 	double morning_rate, evening_rate, sum_M = 0, sum_E = 0;
-	int answer = "x";
 	printf("General Well-being Log\n");
 	printf("======================\n");
 
@@ -185,5 +180,4 @@ int main(void)
 	}
 
 
-	return 0;
 }

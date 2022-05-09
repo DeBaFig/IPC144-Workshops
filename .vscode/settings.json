@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "w2p2.h": "c",
+        "workshop04.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
