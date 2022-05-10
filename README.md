@@ -2,12 +2,13 @@
 
 <h1 align="center">SENECA WINTER TERM 2021 - WORKSHOPS</h1>
 
-![VS Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![GitHub last commit](https://img.shields.io/github/last-commit/DeBaFig/1st-term)   ![APM](https://img.shields.io/apm/l/vim-mode)
+![VS Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![GitHub last commit](https://img.shields.io/github/last-commit/DeBaFig/1-term)   ![APM](https://img.shields.io/apm/l/vim-mode)
 
 <p>Codes of my workshops and the final project.</p>
 
 <!--ts-->
    * [About](#about)
+   * [How to Run](#how-to-run)
    * [Folder Structure](#folder-structure)
       * [Workshop #2](#workshop-2)
       * [Workshop #3](#workshop-3)
@@ -28,7 +29,12 @@
 
 ## How to Run
 
+Bash:
+
 ```bash
+mkdir directory-name
+
+cd directory-name
 
 git clone https://github.com/DeBaFig/1-term.git
 
@@ -37,8 +43,11 @@ gcc main.c .\workshop2\w2p2.c .\workshop3\Workshop3.c .\workshop4\Workshop04.c .
 .\1term.exe
 
 ```
-```PowerShell
+
 ## Folder Structure
+
+
+```PowerShell
 
 C:.  
 │   main.c  
@@ -84,9 +93,16 @@ C:.
         Workshop06.pdf
 
 ```
+### Menu
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46844031/167532491-9d81ae18-65ff-4511-837c-c0484905aaea.png" width="600"/>
+</p>
 
 
-### [Workshop #2]
+After run the exe you can choose one of the options:
+
+### Workshop #2
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46844031/163504366-e9dd85ad-9961-469e-8ba5-e3b6f74adc13.gif" width="600"/>
 </p>
@@ -113,7 +129,7 @@ $2.00 Toonies  X 47 (remaining: $1.00)
 $1.00 Loonies  X 1 (remaining: $0.00)
 ```
 
-### [Workshop #3]
+### Workshop #3
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46844031/163491541-3ced595a-db79-4fc8-a08b-9c49e4269925.gif" width="600"/>
@@ -162,7 +178,7 @@ Average evening rating:  3.3
 Average overall rating:  2.8
 ```
 
-### [Workshop #4]
+### Workshop #4
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46844031/163493459-f35ea07a-0f5e-48ec-9168-98e69e699d02.gif" width="600"/>
@@ -220,7 +236,7 @@ NOTE: Financing options are available on some items.
  ```
  
  
-### [Workshop #5]
+### Workshop #5
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46844031/163506188-57baccc2-6610-4f39-8429-5ddeb1d8c2f2.gif" width="600"/>
@@ -367,7 +383,7 @@ You should play again and try to beat your score!
 ````
 
 
-### [Workshop #6]
+### Workshop #6
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46844031/163506196-b36d5cb5-bb7b-479f-a0e7-ab06252becfa.gif" width="600"/>
@@ -404,7 +420,7 @@ Happy shopping!
 ````
 
 
-### [Final Project]
+### Final Project
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/46844031/163506202-1355aeb8-a8cd-451a-bd8e-33958e6380a8.gif" width="600"/>
@@ -506,4 +522,4 @@ It is not luck, it is hard work!
 Where to find me:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dbassi91)   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dbfigueiredo/)   [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denize.f.bassi@gmail.com)   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/debafig)   
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/d.bassi91/)   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeBaFig)   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bassidenize/)   [![About.me Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://about.me/denizefigueiredo/getstarted)   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/VMVHOV7CIFHYP1)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/d.bassi91/)   [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeBaFig)   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bassidenize/)   [![website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://debafig.github.io/me/)   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547988184372)
