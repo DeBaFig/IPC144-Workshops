@@ -7,7 +7,7 @@
 #define ACCOUNT_SIZE 15
 #define TICKET_SIZE 17
 
-int main(void)
+void ticketing_main(void)
 {
     int recsLoaded;
     struct Account accounts[ACCOUNT_SIZE] = { {0} };
@@ -28,5 +28,4 @@ int main(void)
     // launch application logic
     applicationStartup(&data);
 
-    return 0;
 }

@@ -2,7 +2,12 @@
     "files.associations": {
         "stdio.h": "c",
         "w2p2.h": "c",
-        "workshop04.h": "c"
+        "workshop04.h": "c",
+        "workshop5.h": "c",
+        "accountticketingui.h": "c",
+        "commonhelpers.h": "c",
+        "account.h": "c",
+        "w6p2.h": "c"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

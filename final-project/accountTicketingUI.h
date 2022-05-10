@@ -1,11 +1,12 @@
 
-
 #include "account.h"
 
 #ifndef ACCOUNT_TICKETING_H_
 #define ACCOUNT_TICKETING_H_
 
 
+
+void ticketing_main(void);
 //1. funtion with the basic information about te account 
 void displayAccountSummaryHeader(void);
 

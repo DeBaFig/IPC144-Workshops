@@ -1,13 +1,3 @@
-// ===================================================================================
-//
-//  Assignment:  2
-//  Milestone:   3
-//  Description: Main logic/tester
-//	Full Name: Denize Bassi Figueiredo
-//	Student ID: 111288205
-//	E-mail: dbassi-figueiredo@myseneca.ca
-//	Section: ZDD
-// +---------------------------------------------------------+
 
 #define _CRT_SECURE_NO_WARNINGS
 
