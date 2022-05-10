@@ -1,33 +1,9 @@
 
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#define MAX_PATH 70
-#define MIN_PATH 10
-#define MULT_PATH_CALC 5
-
-struct GameInfo
-{
-	int MIN_Moves;
-	int MAX_Moves;
-	int Moves;
-	int PathLength;
-	int bombs[MAX_PATH / MULT_PATH_CALC][MULT_PATH_CALC];
-	int treasures[MAX_PATH / MULT_PATH_CALC][MULT_PATH_CALC];
-	char undiscovery[MAX_PATH];
-	int Plays[MAX_PATH];
-};
-
-struct PlayerInfo
-{
-	int Nlives;
-	char CharSym;
-	int NTreasureF;
-	int History[MAX_PATH];
-	struct GameInfo game;
-};
+#include "Workshop5.h"
 
 
-int main(void)
+void game_main(void)
 {
 	struct PlayerInfo member;
 
@@ -316,10 +292,8 @@ int main(void)
 		printf("##################\n");
 		printf("\n");
 		printf("You should play again and try to beat your score!\n");
-		getchar(&CharSym);
 
 		printf("Would you like to try again? (to exit = 0)");
 		scanf("%d", &end);
    }
-	return 0;
 }

@@ -4,7 +4,6 @@
 #define MAX_NUM_PRODUCTS 3
 #define SERVING 64
 
-#include <stdio.h>
 #include "w6p2.h" 
 
 // 1. Get user input of int type and validate for a positive non-zero number
@@ -246,7 +245,7 @@ void displayFinalAnalysis(const struct ReportData DisplayData)
 
 
 // 7. Logic entry point
-void start(void)
+void foodCost_main(void)
 {
 
 	struct CatFoodInfo Items[MAX_NUM_PRODUCTS];

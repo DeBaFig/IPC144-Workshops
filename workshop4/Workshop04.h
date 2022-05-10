@@ -23,6 +23,6 @@ typedef struct
 	int FinancialbyP[100];
 }Plist;
 
-void wishList(void);
+void wishList_main(void);
 
 #endif

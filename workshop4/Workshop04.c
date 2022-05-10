@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "Workshop04.h"
 
-void wishList(void)
+void wishList_main(void)
 {
 	int MIN_COST = 100;
 
