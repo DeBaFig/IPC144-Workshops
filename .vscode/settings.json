@@ -7,7 +7,8 @@
         "accountticketingui.h": "c",
         "commonhelpers.h": "c",
         "account.h": "c",
-        "w6p2.h": "c"
+        "w6p2.h": "c",
+        "ticket.h": "c"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

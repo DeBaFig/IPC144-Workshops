@@ -4,7 +4,7 @@
 #include "workshop4\Workshop04.h"
 #include "workshop5\Workshop5.h"
 #include "workshop6\w6p2.h"
-#include "final-project\final_main.c"
+#include "final-project\accountTicketingUI.h"
 
 int main(void)
 {
