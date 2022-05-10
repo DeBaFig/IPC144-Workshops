@@ -30,61 +30,60 @@
 
 ```bash
 
-git clone 
+git clone https://github.com/DeBaFig/1-term.git
 
 gcc main.c .\workshop2\w2p2.c .\workshop3\Workshop3.c .\workshop4\Workshop04.c .\workshop5\Workshop5.c  .\workshop6\w6p2.c  .\final-project\account.c .\final-project\accountTicketingUI.c .\final-project\commonHelpers.c .\final-project\ticket.c .\final-project\final_main.c -o 1term -Wall
 
 .\1term.exe
 
 ```
-
+```PowerShell
 ## Folder Structure
 
-C:.
-│   main.c
-│   README.md
+C:.  
+│   main.c  
+│   README.md  
+│  
+├───final-project  
+│       account.c    
+│       account.h    
+│       accounts.txt    
+│       accounts_arc.txt  
+│       accountTicketingUI.c  
+│       accountTicketingUI.h  
+│       commonHelpers.c  
+│       commonHelpers.h  
+│       final_main.c  
+│       ticket.c  
+│       ticket.h  
+│       tickets.txt  
+│       tickets_arc.txt  
+│  
+├───workshop2  
+│       w2p2.c  
+│       w2p2.h  
+│  
+├───workshop3  
+│       Workshop03.pdf  
+│       Workshop3.c  
+│       Workshop3.h  
 │
-├───final-project
-│       account.c
-│       account.h
-│       accounts.txt
-│       accounts_arc.txt
-│       accountTicketingUI.c
-│       accountTicketingUI.h
-│       commonHelpers.c
-│       commonHelpers.h
-│       final_main.c
-│       ticket.c
-│       ticket.h
-│       ticketing.exe
-│       tickets.txt
-│       tickets_arc.txt
+├───workshop4  
+│       Workshop04.c  
+│       Workshop04.h  
+│       Workshop04.pdf  
 │
-├───workshop2
-│       w2p2.c
-│       w2p2.h
+├───workshop5  
+│       Workshop05.pdf  
+│       Workshop5.c  
+│       Workshop5.h  
 │
-├───workshop3
-│       Workshop03.pdf
-│       Workshop3.c
-│       Workshop3.h
-│
-├───workshop4
-│       Workshop04.c
-│       Workshop04.h
-│       Workshop04.pdf
-│
-├───workshop5
-│       Workshop05.pdf
-│       Workshop5.c
-│       Workshop5.h
-│
-└───workshop6
-        w6p2.c
+└───workshop6  
+        w6p2.c  
         w6p2.h
         Workshop06.pdf
 
-
+```
 
 
 ### [Workshop #2]
