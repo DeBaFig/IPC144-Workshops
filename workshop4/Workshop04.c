@@ -203,6 +203,4 @@ void wishList_main(void)
 
 	}
 
-
-	_Exit(0);
 }
